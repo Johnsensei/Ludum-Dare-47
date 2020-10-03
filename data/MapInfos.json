@@ -1,4 +1,8 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":false,"name":"City Map","order":1,"parentId":0,"scrollX":720.6666666666666,"scrollY":433.3333333333333}
+=======
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":704,"scrollY":433.3333333333333}
+>>>>>>> parent of d498893... 0.0.1
 ]
