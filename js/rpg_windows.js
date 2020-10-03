@@ -5744,7 +5744,7 @@ Window_TitleCommand.prototype.windowWidth = function() {
 };
 
 Window_TitleCommand.prototype.updatePlacement = function() {
-    this.x = (Graphics.boxWidth - this.width) / 2;
+    this.x = (Graphics.boxWidth - this.width) / 8;
     this.y = Graphics.boxHeight - this.height - 96;
 };
 
