@@ -1706,7 +1706,7 @@ Object.defineProperties(TextManager, {
     optimize        : TextManager.getter('command', 16),
     clear           : TextManager.getter('command', 17),
     newGame         : TextManager.getter('command', 18),
-    continue_       : TextManager.getter('command', 19),
+    //continue_       : TextManager.getter('command', 19),
     toTitle         : TextManager.getter('command', 21),
     cancel          : TextManager.getter('command', 22),
     buy             : TextManager.getter('command', 24),
